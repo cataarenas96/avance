@@ -1,0 +1,40 @@
+
+.navbar{
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+}
+
+a,
+form{
+  font-family: 'Spectral SC', serif;
+}
+
+
+.carousel-caption{
+  justify-content: center;
+  text-align: left;
+}
+
+.carousel-caption{
+  font-family: 'Spectral SC', serif;
+  font-size: 100px;
+}
+
+
+.articulo{
+  padding: 50px;
+}
+.articulo img{
+  align-items: center;
+  border-radius: 50%;
+  width: 180px;
+  padding: 20px;
+}
+
+.articulo h2{
+  font-family: 'Cinzel', serif;
+}
+.articulo p{
+  font-family: 'News Cycle', sans-serif;
+}
