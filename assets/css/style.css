@@ -7,7 +7,7 @@
 
 a,
 form{
-  font-family: 'Spectral SC', serif;
+  font-family: 'Dosis', sans-serif;
 }
 
 
@@ -18,9 +18,16 @@ form{
 
 .carousel-caption{
   font-family: 'Spectral SC', serif;
-  font-size: 100px;
+  font-size: 80px;
+}
+.carousel-caption h1{
+  font-size: 60px;
+ background-color: black; opacity: 0.5;
 }
 
+.carousel-caption p{
+  font-size: 40px;
+}
 
 .articulo{
   padding: 50px;
@@ -37,4 +44,7 @@ form{
 }
 .articulo p{
   font-family: 'News Cycle', sans-serif;
+}
+article.extras{
+  background-image: url();
 }
